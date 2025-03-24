@@ -1,4 +1,4 @@
-# graph_lda
+# Graph LDA
 Core code for Graph Latent Diffusion Autoencoder
 
 ## Requirements
