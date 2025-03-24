@@ -8,5 +8,4 @@ Core code for Graph Latent Diffusion Autoencoder
 - Pytorch geometric 2.5.3*
 
 ## Dataset and Trained Models
-You can download dataset and trained models for experiments in our paper from here.
-[https://drive.google.com/drive/folders/1CPuXemg_b_J836WNB2JhKcJPgiBC1DCY?usp=drive_link](https://drive.google.com/drive/folders/1CPuXemg_b_J836WNB2JhKcJPgiBC1DCY?usp=sharing)
+You can download dataset and trained models for experiments in our paper from [here](https://drive.google.com/drive/folders/1CPuXemg_b_J836WNB2JhKcJPgiBC1DCY?usp=sharing).
