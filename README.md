@@ -8,4 +8,4 @@ The official implementation of Graph LDA : Generalized Molecular Latent Represen
 - Pytorch geometric 2.5.3
 
 ## Dataset and Trained Models
-You can download dataset and trained models in our experiments from [here](https://drive.google.com/drive/folders/1CPuXemg_b_J836WNB2JhKcJPgiBC1DCY?usp=sharing).
+Dataset and pre-trained models in our experiments are avaiable [here](https://drive.google.com/drive/folders/1CPuXemg_b_J836WNB2JhKcJPgiBC1DCY?usp=sharing).
