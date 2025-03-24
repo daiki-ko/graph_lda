@@ -1,5 +1,5 @@
-# Graph LDA
-Core code for Graph Latent Diffusion Autoencoder
+# Graph LDA : Graph Latent Diffusion Autoencoder
+The official implementation of Graph LDA : Generalized Molecular Latent Representation via Graph Latent Diffusion Autoencoder
 
 ## Requirements
 - PyTorch 2.4.0
