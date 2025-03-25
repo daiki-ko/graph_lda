@@ -2,7 +2,6 @@
 The official implementation of Graph LDA : Generalized Molecular Latent Representation via Graph Latent Diffusion Autoencoder
 
 ## Publication
-Coming soon.
 
 
 ## Requirements
