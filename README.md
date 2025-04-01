@@ -14,3 +14,6 @@ The official implementation of Graph LDA : Generalized Molecular Latent Represen
 
 ## Dataset and Trained Models
 Dataset and pre-trained models in our experiments are avaiable [here](https://drive.google.com/drive/folders/1CPuXemg_b_J836WNB2JhKcJPgiBC1DCY?usp=sharing).
+
+## About Scripts
+As mentioned in our paper, we use [PIG-VAE](https://github.com/jrwnter/pigvae.git) Graph Autoencoder architecture. The code for the PIG-VAE can be found in `pigvae_all/pigvae`.
