@@ -1,5 +1,5 @@
 # Graph LDA : Graph Latent Diffusion Autoencoder
-The official implementation of Graph LDA : Generalized Molecular Latent Representation via Graph Latent Diffusion Autoencoder
+The official implementation of Graph LDA : Graph latent diffusion-based molecular representation learning for enhanced generalization in molecular property prediction
 
 ## Publication
 [J.Cheminfo](https://link.springer.com/article/10.1186/s13321-026-01176-8)
